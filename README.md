@@ -4,7 +4,7 @@
 <h3 align="center">AI & Data Science Enthusiast | Deep Learning • Machine Learning • Big Data • Blockchain • CyberSecurity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarasouhail&label=Profile%20views&color=0e75b6&style=flat" alt="sarasouhail" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarasouhail" alt="sarasouhail" /></a> </p>
+
 
 - 🔭 I’m currently working on a **Financial Fraud Detection System** using **Apache Spark ML**  
 - 🌱 I’m currently exploring **Power BI**, **FastKAN**, and **Tiny Machine Learning (TinyML)**  
@@ -123,6 +123,8 @@ Metamask · Smart Contracts · Decentralized Applications (DApps) · Ethereum ·
 <a href="https://hardhat.org/" target="_blank"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/></a>
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarasouhail" alt="sarasouhail" /></a> </p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasouhail&show_icons=true&locale=en&layout=compact" alt="sarasouhail" /></p>
