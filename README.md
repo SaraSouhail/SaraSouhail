@@ -11,7 +11,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=sarasouhail&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 &nbsp;
-<a href="https://linkedin.com/in/sara-souhail"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-souhail-748b73232"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:souhailsara31@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -228,7 +228,7 @@ I'm actively looking for **PFE internship opportunities** in Morocco or remote �
 
 If you're working on something exciting at the intersection of **AI × Edge × Real-World Impact**, let's talk.
 
-<a href="https://linkedin.com/in/sara-souhail">
+<a href="https://www.linkedin.com/in/sara-souhail-748b73232">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
